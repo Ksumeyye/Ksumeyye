@@ -1,2 +1,2 @@
 ### Hi 👋, I'm Sümeyye
-- 🌱I'm interested in Full Stack. Net Core developer.
+- 🌱I'm interested in software developer.
