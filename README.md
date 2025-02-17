@@ -13,6 +13,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksumeyye&show_icons=true&locale=en&layout=compact" alt="ksumeyye" /></p>
 
-<br clear="both">
-<img src="https://rw.githubusercontent.com/maurodesouza/output/snake.svg" alt="Snake animation"/>
+
 
