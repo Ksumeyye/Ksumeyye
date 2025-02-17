@@ -13,4 +13,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksumeyye&show_icons=true&locale=en&layout=compact" alt="ksumeyye" /></p>
 
-![Angular](https://img.shields.io/badge/Angular-black?logo=angular)
+
