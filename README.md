@@ -6,10 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ksumeyye](https://github.com/Ksumeyye)
 
-<h3 align="left">Connect with me:</h3> https://github.com/Ksumeyye
-<p align="left">
-</p>
-
 ![Angular](https://img.shields.io/badge/Angular-black?logo=angular)
 
 <h3 align="left">Languages and Tools:</h3>
