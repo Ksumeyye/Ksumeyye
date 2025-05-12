@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sümeyye</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksumeyye" alt="ksumeyye" /></a> </p>
+
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ksumeyye](https://github.com/Ksumeyye)
